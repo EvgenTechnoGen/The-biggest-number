@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int a, b, c, d, e;
     cout << "Enter five numbers:" << endl;
-    cin >> a >> b >> c >> d >> e;
+    cin >> a >> b >> c >> d;
 
     if (a > b && a > c && a > d && a > e) {
         cout << "The biggest number is - " << a << endl;
