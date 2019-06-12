@@ -26,5 +26,6 @@ int main() {
         cout << "The biggest number is - " << e << endl;
     }
 
+    system("pause");
     return 0;
 }
